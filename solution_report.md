@@ -1,4 +1,4 @@
-Part 4 — AI Solution Design Report
+AI Solution Design Report
 1. Business Domain
 Selected Domain: Healthcare
 
