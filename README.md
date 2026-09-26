@@ -1,4 +1,4 @@
-# Part 4 — AI Solution Design for a Business Problem
+# AI Solution Design for a Business Problem
 
 ## Domain
 Healthcare
